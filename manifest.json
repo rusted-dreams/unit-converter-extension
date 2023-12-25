@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "unit converter",
+    "description": "convert all units as per your choice",
+    "version": "0.0.1",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "./assets/unit.png"
+    }
+}
